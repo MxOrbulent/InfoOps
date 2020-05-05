@@ -17,6 +17,10 @@ While I do admire some parts of stallmans ideology and his drive (besides toe na
 software does (hypocrite). If I link a GPL library and compile with it, the entire project goes under GPL.
 Yes, I can sell the software. But once someone demands the source code, I am legally obligated to give it over to whoever requested it. Unobfuscated I might add too and without unreasonable delay.
 
+**Plugins that make use of Spigot (aka Bukkit) code are forced to be licensed under GPL, fuck you! Did you know that you can technically (if you are so inclined into investing the time and money into lawyers and tearing the Bukkit dependent community apart once again) to have it tried in court that premium plugins (and infact all plugins ever made for projects based on bukkit) that they must release the source code on demand to paying customers, who can then spread this source code freely?**
+
+**The more you know...**
+
 When I do this, they can simply upload the source code, and there goes my revenue down the shitter. 
 You are sadly mistaken if you think it's easy to start something up and just spend a bunch of free time on it.
 Money makes the world go around. But communism throws you into the gulag.
@@ -31,6 +35,6 @@ Especially LGPL is a nice compromise because it only demands that the source cod
 released while keeping the rest of the software intact (and safe from commies). This forces the company to provide source for LGPL licensed parts of their own project. And at the same time 
 it allows them to protect their own code that is not licensed under LGPL (like other parts of the project).
 
-**To that end, DO NOT ASK US TO LICENSE PROJECTS UNDER GPL, OR INFACT DO NOT ASK US TO USE X LICENSE OVERALL. WE DECIDE WHAT LICENSE GOES ONTO THE REPOSITORY AND SUBSEQUENTLY THE CODE. END OF STORY**
+**To that end, DO NOT ASK US TO LICENSE PROJECTS UNDER GPL, OR INFACT DO NOT ASK US TO USE X LICENSE OVERALL. WE DECIDE WHAT LICENSE GOES ONTO THE REPOSITORY AND SUBSEQUENTLY THE CODE. END OF STORY, ONLY PROJECTS THAT DEMAND TO BE UNDER GPL (DUE TO USING GPL CODE) WILL BE LICENSED AS GPL**
 
 
